@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ece0a96-3add-4f5e-972b-842eb7554d8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VYTaEz8gj4VjtjUr7QB21g18X9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameMonitor" />
+      <module name="TicTac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameMonitor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ece0a96-3add-4f5e-972b-842eb7554d8b" name="Default Changelist" comment="" />
+      <created>1577429089975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577429089975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1577429239255">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="653" y="223" key="#com.intellij.ide.util.MemberChooser/0.23.1680.955@0.23.1680.955" timestamp="1577429239255" />
+    <state x="643" y="423" key="Github.CreateGistDialog" timestamp="1577438826063">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="643" y="423" key="Github.CreateGistDialog/0.23.1680.955@0.23.1680.955" timestamp="1577438826063" />
+    <state width="819" height="256" key="GridCell.Tab.0.bottom" timestamp="1577438891812">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="819" height="256" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1577438891812" />
+    <state width="819" height="256" key="GridCell.Tab.0.center" timestamp="1577438891811">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="819" height="256" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1577438891811" />
+    <state width="819" height="256" key="GridCell.Tab.0.left" timestamp="1577438891810">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="819" height="256" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1577438891810" />
+    <state width="819" height="256" key="GridCell.Tab.0.right" timestamp="1577438891812">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="819" height="256" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1577438891812" />
+  </component>
+</project>

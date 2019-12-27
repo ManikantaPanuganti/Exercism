@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e29456-dd23-4fb5-89e1-3cd0db3a6ae9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VW22wrfnWFh9lOY1mTRyPHkhjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/java/grains" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/manikantapanuganti/Exercism/java/grains" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/grains" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/grains" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e29456-dd23-4fb5-89e1-3cd0db3a6ae9" name="Default Changelist" comment="" />
+      <created>1577354326451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577354326451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577354756583">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.955@0.23.1680.955" timestamp="1577354756583" />
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1577356865216">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1577356865216" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1577356865215">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1577356865215" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1577356865214">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1577356865214" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1577356865215">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1577356865215" />
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1577354343130">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="517" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.955@0.23.1680.955" timestamp="1577354343130" />
+  </component>
+</project>
