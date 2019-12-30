@@ -10,18 +10,22 @@ public class SnakeOrLadder {
     }
 
     public int getEndingPosition() {
+
         return endingPosition;
     }
 
     public void setEndingPosition(int endingPosition) {
+
         this.endingPosition = endingPosition;
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
